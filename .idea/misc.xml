@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../../../../chapitre3_Micro-services_Orchestration_SpringCloudNetflix_2020_2021/labs/TP3/Exemple_Client-Side_SelfRegistration_NetfflixOSS/ms-formation/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../chapitre3_Micro-services_Orchestration_SpringCloudNetflix_2020_2021/labs/TP3/Exemple_Client-Side_SelfRegistration_NetfflixOSS/ms-registry/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../chapitre3_Micro-services_Orchestration_SpringCloudNetflix_2020_2021/labs/TP3/Exemple_Client-Side_SelfRegistration_NetfflixOSS/ms-scolarite/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
